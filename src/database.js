@@ -1,7 +1,8 @@
 const mongoose = require('mongoose')
 const {DBUSER,DBPASSWORD,DBNAME} = process.env
 
-const MONGODB_URI = `mongodb+srv://${DBUSER}:${DBPASSWORD}@portafolio.ltbe7ln.mongodb.net/${DBNAME}`
+// Se debe cambiar el link segun la base de datos de cada uno :v
+const MONGODB_URI = `mongodb+srv://${DBUSER}:${DBPASSWORD}@portafolio.aizrhn3.mongodb.net/${DBNAME}`
 
 connection = async()=>{
     try {
