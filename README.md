@@ -10,6 +10,21 @@
 - Nestor Chumania
 - Daniel Quishpe
 - Dany Vinueza
+# Entornos a cargar en el desarrollo del proyecto 
+
+1-npm i express connect-flash bcryptjs express-handlebars express-session method-override mongoose passport passport-local
+
+2- npm i dotenv nodemon npm-check-updates -D
+
+3- npm init --y
+
+4- npm i express
+
+5- npm i express-fileupload
+
+6- npm i cloudinary
+
+7- npm run dev
 
 ## Temas tratados 
 - Conexion MongoBD
@@ -17,5 +32,16 @@
 ![image](https://github.com/DannyVinueza/Portafolio_Web_/assets/117754291/fc78e4d3-85ba-4388-ba53-427927f9e26b)
 
 
-- Formulario de informacion de redes sociales
+Sprint 1 carga de imagenes en cloudinary
+
+![image](https://github.com/DannyVinueza/Portafolio_Web_/assets/117754291/037a8454-a760-40bf-9754-93ab4987fd15)
+
+Sprint 2 : Correo electronico
+
+![WhatsApp Image 2023-06-24 at 6 41 30 PM](https://github.com/DannyVinueza/Portafolio_Web_/assets/117754291/8e73aadb-04dc-4eb0-8ae7-2b9b2b8788c3)
+
+
+![WhatsApp Image 2023-06-24 at 6 43 21 PM](https://github.com/DannyVinueza/Portafolio_Web_/assets/117754291/c2ea9d56-eba8-4301-8437-3e96b10b640c)
+
+Sprint 3 
 
