@@ -30,5 +30,8 @@
     "nodemon": "^2.0.22",
     "npm-check-updates": "^16.10.12"
   },
+  "engines": {
+    "node": "18.16.0"
+  },
   "description": ""
 }
