@@ -26,6 +26,8 @@
 
 7- npm run dev
 
+8- npm i nodemailer
+
 ## Temas tratados 
 - Conexion MongoBD
 
