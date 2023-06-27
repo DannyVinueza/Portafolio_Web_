@@ -47,5 +47,10 @@ Confirmacion de correo electronico
 
 ![ee47bb2f-39cc-4c7f-a706-b25143855386](https://github.com/DannyVinueza/Portafolio_Web_/assets/117754291/03ad9d94-967c-4554-85d3-073220d680bc)
 
-Sprint 3 
+Sprint 3 : Gestión de redes sociales y ckeditor
+
+![image](https://github.com/DannyVinueza/Portafolio_Web_/assets/117753370/0e862ff6-c51a-4a04-9cba-26d531b3b51e)
+![image](https://github.com/DannyVinueza/Portafolio_Web_/assets/117753370/90542fd8-e9b6-49e3-940e-2a8e36358935)
+
+
 
