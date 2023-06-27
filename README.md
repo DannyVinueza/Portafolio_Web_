@@ -41,7 +41,9 @@ Sprint 2 : Correo electronico
 ![WhatsApp Image 2023-06-24 at 6 41 30 PM](https://github.com/DannyVinueza/Portafolio_Web_/assets/117754291/8e73aadb-04dc-4eb0-8ae7-2b9b2b8788c3)
 
 
-![WhatsApp Image 2023-06-24 at 6 43 21 PM](https://github.com/DannyVinueza/Portafolio_Web_/assets/117754291/c2ea9d56-eba8-4301-8437-3e96b10b640c)
+Confirmacion de correo electronico 
+
+![ee47bb2f-39cc-4c7f-a706-b25143855386](https://github.com/DannyVinueza/Portafolio_Web_/assets/117754291/03ad9d94-967c-4554-85d3-073220d680bc)
 
 Sprint 3 
 
