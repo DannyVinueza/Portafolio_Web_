@@ -34,9 +34,9 @@
 ![image](https://github.com/DannyVinueza/Portafolio_Web_/assets/117754291/fc78e4d3-85ba-4388-ba53-427927f9e26b)
 
 
-Sprint 1 carga de imagenes en cloudinary
+Sprint 1 : Listar Portafolios
 
-![image](https://github.com/DannyVinueza/Portafolio_Web_/assets/117754291/037a8454-a760-40bf-9754-93ab4987fd15)
+![image](https://github.com/DannyVinueza/Portafolio_Web_/assets/117753370/8531c319-e6cd-4692-b611-f9b75d431b9b)
 
 Sprint 2 : Correo electronico
 
